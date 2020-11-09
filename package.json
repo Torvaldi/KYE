@@ -1,0 +1,21 @@
+{
+    "name": "kye",
+    "displayName": "KYE",
+    "description": "Keep you eyes colorscheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "KYE",
+                "uiTheme": "vs-dark",
+                "path": "./themes/KYE-color-theme.json"
+            }
+        ]
+    }
+}
